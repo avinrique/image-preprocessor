@@ -3,8 +3,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='image-preprocessor',
-    version='1.0.0',
+    name='image-preprocessorpy',
+    version='1.0.1',
     description='A package for preprocessing images by resizing and cropping them to a target size.',
     author='Avinrique',
     author_email='avinrique@example.com',
